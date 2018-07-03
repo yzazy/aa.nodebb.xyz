@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Base -->
+
+    <!-- Blue -->
+	<style name="Theme.WebApp.Blue" parent="Theme.AppCompat.Light.NoActionBar">
+		<item name="colorPrimary">@color/global_color_blue_primary</item>
+		<item name="colorPrimaryDark">@color/global_color_blue_primary_dark</item>
+		<item name="drawerItemBackground">@drawable/selector_selectable_item_bg_blue</item>
+	</style>
+
+	<!-- Brown -->
+
+    <!-- Gray -->
+
+    <!-- Green -->
+
+    <!-- Lime -->
+
+    <!-- Orange -->
+
+    <!-- Purple -->
+
+    <!-- Red -->
+
+    <!-- Teal -->
+
+    <!-- Violet -->
+
+</resources>

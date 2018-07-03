@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_keyline_s">16dp</dimen>
+
+    <dimen name="global_spacing_xs">16dp</dimen>
+    <dimen name="global_spacing_m">32dp</dimen>
+    <dimen name="global_spacing_l">48dp</dimen>
+
+    <dimen name="global_text_size_subhead">16sp</dimen>
+    <dimen name="global_text_size_body_1">14sp</dimen>
+
+    <dimen name="drawer_width">240dp</dimen>
+
+    <dimen name="placeholder_image_size">144dp</dimen>
+</resources>
